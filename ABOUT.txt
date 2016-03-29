@@ -3,3 +3,9 @@ It receives three arguments:
   -The first one contains the classification results of the best classifier.
   -The second one contains the classification results of the worst classifier.
   -The third one contains the true classes.
+
+To execute:
+python compare_outputs.py plus.txt moins.txt labels.txt
+Output:
+Plus performante: 88.1586
+Moins performante: 79.4677
