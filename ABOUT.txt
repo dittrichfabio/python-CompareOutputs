@@ -1,0 +1,5 @@
+This python script computes the performances obtained by two different classifiers (the best and worst classifiers of a given problem) regarding a ground truth file.
+It receives three arguments:
+  -The first one contains the classification results of the best classifier.
+  -The second one contains the classification results of the worst classifier.
+  -The third one contains the true classes.
